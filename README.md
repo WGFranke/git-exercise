@@ -1,2 +1,2 @@
 # git-exercise
-My name is William Franke.
+My name is William G.Franke.
